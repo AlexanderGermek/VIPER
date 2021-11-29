@@ -1,0 +1,6 @@
+framework module Pods_VIPER_Simpsons {
+  umbrella header "Pods-VIPER_Simpsons-umbrella.h"
+
+  export *
+  module * { export * }
+}
